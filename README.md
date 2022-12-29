@@ -1,6 +1,6 @@
 # playgroundJS
 
-Just playing around with Selenium WebDriverJS using [timvroom playground](http://timvroom.com/selenium/playground/). The test will run the below test steps already outlined on the playground page.
+Just playing around with **Selenium WebDriverJS** using [timvroom playground](http://timvroom.com/selenium/playground/). The test will run the below test steps already outlined on the playground page.
 
 1. Grab page title and place title text in answer slot #1
 2. Fill out name section of form to be Kilgore Trout
