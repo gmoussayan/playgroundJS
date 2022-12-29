@@ -23,7 +23,7 @@ Just playing around with Selenium WebDriverJS using [timvroom playground](http:/
 ### Getting Started
 To run the test on your local machine:
 
-- Download and install [NodeJS](includes npm)(https://nodejs.org/en/download/).
+- Download and install [NodeJS](https://nodejs.org/en/download/)(includes npm).
 - Set Node.js and npm environment variables.
 - Clone the Repo to your local machine.
 - From the project tests directory (i.e cd-ing into .../playgroundJS/tests), run the following command to run the test with Chrome
