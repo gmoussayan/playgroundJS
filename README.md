@@ -1,5 +1,7 @@
 # playgroundJS
 
+note: Webdriver manager is still in its Beta version; so trying it now didn't have the test running. So i will update the test back soon to have it working using local browser drivers instead.
+
 Just playing around with **Selenium WebDriverJS** using [timvroom playground](http://timvroom.com/selenium/playground/). The test will run the below test steps already outlined on the playground page.
 
 1. Grab page title and place title text in answer slot #1
